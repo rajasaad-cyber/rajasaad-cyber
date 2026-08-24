@@ -3,9 +3,9 @@
   <h3>SEO Specialist & Web Developer | Technical Digital Marketer</h3>
 
   <p>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:saadiraja266@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/Location-Rawalpindi%2C%20Pakistan-blue?style=for-the-badge&logo=googlemaps" />
+    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-success?style=for-the-badge" />
   </p>
 </div>
 
@@ -48,10 +48,10 @@ Digital Marketing Professional and Web Developer with over **1.8+ years of hands
 
 ### 📈 GitHub Stats & Performance
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajasaad-cyber&show_icons=true&theme=tokyonight&hide_border=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajasaad-cyber&layout=compact&theme=tokyonight&hide_border=true" height="175" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rajasaad-cyber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajasaad-cyber&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
