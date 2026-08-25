@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24&height=200&section=header&text=Muhammad%20Saad&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=SEO%20Specialist%20&%20Web%20Developer%20|%20Technical%20Digital%20Marketer&descSize=16&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,17,17,34,34,34,51,51,51,68,68,68&height=200&section=header&text=Muhammad%20Saad&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=SEO%20Specialist%20&%20Web%20Developer%20|%20Technical%20Digital%20Marketer&descSize=16&descAlignY=62" width="100%" />
 
   <p align="center">
     <a href="mailto:saadiraja266@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" /></a>
@@ -67,5 +67,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,11,6&height=4&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=34,34,34,51,51,51&height=4&section=footer" width="100%" />
 </div>
