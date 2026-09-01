@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,3,7,18,10,37,83&height=200&section=header&text=Muhammad%20Saad&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=SEO%20Specialist%20&%20Web%20Developer%20|%20Technical%20Digital%20Marketer&descSize=16&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=220&section=header&text=Muhammad%20Saad&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=SEO%20Specialist%20&%20Web%20Developer%20|%20Technical%20Digital%20Marketer&descSize=16&descAlignY=62&animation=fadeIn" width="100%" />
 
   <p align="center">
     <a href="mailto:saadiraja266@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" /></a>
@@ -7,7 +7,15 @@
     <img src="https://img.shields.io/badge/Status-Open%20To%20Work-30D158?style=for-the-badge&logo=statuspage&logoColor=white" />
     <img src="https://img.shields.io/badge/Experience-2%20Years-0284c7?style=for-the-badge&logo=buffer&logoColor=white" />
   </p>
+
+  <img src="https://komarev.com/ghpvc/?username=rajasaad-cyber&style=for-the-badge&color=0284c7&labelColor=1a1a1a&textColor=white" alt="profile views" />
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=650&lines=Engineering+Search+Visibility+%26+Web+Performance;2%2B+Years+Turning+Traffic+Into+Growth;Technical+SEO+%C3%97+Full-Stack+Front-End;Open+to+Remote+%2F+Hybrid+Collaborations" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -52,8 +60,16 @@
 ### 📈 GitHub Metrics & Ecosystem Performance
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rajasaad-cyber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajasaad-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rajasaad-cyber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=7f5af0&icon_color=bb9af7&text_color=c0caf5" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajasaad-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7f5af0&text_color=c0caf5" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajasaad-cyber&theme=tokyonight&hide_border=true&background=00000000&stroke=7f5af0&ring=bb9af7&fire=7f5af0&currStreakLabel=7f5af0" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajasaad-cyber&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%" />
 </p>
 
 ---
@@ -64,8 +80,19 @@
 - ⚙️ **Performance Engineering:** Developed lightning-fast, responsive multi-page web applications strictly mapped to core Web Vitals and modern mobile-first standards.
 - 🎨 **Visual Brand Impact:** Engineered complete layout and visual identity design assets boosting cross-platform user engagement across international target audiences.
 
+---
+
+<div align="center">
+
+### 🤝 Let's Build Something Powerful Together
+
+<a href="mailto:saadiraja266@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+<a href="https://github.com/rajasaad-cyber"><img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0,0,3,7,18&height=4&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:000000&height=120&section=footer&width=100%" />
 </div>
